@@ -1,1 +1,2 @@
 primer commit para otra rama
+otro commit para la segunda rama
